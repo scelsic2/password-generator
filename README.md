@@ -2,12 +2,9 @@
 
 ## Description
 
-<!-- Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This password generator allowes a user to input the criteria they want for a secure, randomly-generated password.  The user can select password length and if they want to use lowercase letters, uppercase letters, numbers, and/or special characters.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn? -->
+<!-- What did you learn? -->
 
 ## Installation
 
@@ -42,6 +39,9 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - HTML DOM Document getElementsByClassName() Method. (n.d.). W3Schools. Retrieved March 9, 2023, from https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp
 - WebD2: Using Javascript to Hide and Show Content. (n.d.). University of Washington. Retrieved March 9, 2023, from https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.html
 - HTML DOM Style display Property. (n.d.). W3Schools. Retrieved March 9, 2023, from https://www.w3schools.com/jsref/prop_style_display.asp
+- Study group with Zachary Barnes & James Sciacca 09MAR2023.
+- Random Password Generator in JavaScript. (2020, June 19). YouTube. Retrieved March 09, 2023, from https://www.youtube.com/watch?v=v2jfGo7ztm8
+- JavaScript parseInt() Method. (n.d.). W3Schools. Retrieved March 9, 2023, from https://www.w3schools.com/jsref/jsref_parseint.asp
 
 ## License
 
