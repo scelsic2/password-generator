@@ -38,7 +38,7 @@ header {
   background-color: black;
   border-radius: 50px;
   border-width: 1px;
-  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
+  box-shadow: rgba(0, 0, 0, 0.15) 10px 10px 0px 3px;
   color: hsl(206, 17%, 28%);
   font-size: 18px;
   margin: 0 auto;
@@ -65,39 +65,6 @@ header {
 #form-container {
   display: none;
 }
-
-/* <!-- Asghar, A. (n.d.). How to create popup menu in JavaScript. Linux Hint. Retrieved March 9, 2023, from https://linuxhint.com/create-popup-menu-javascript/ -->
-.popupClass {
-  position: relative;
-  display: inline-block;
-  cursor: context-menu;
-  }
-
-popupClass .popupContent {
-  visibility: hidden;
-  background-color: black;
-  color: red;
-  width: 200px;
-  text-align: center;
-  position: absolute;
-  z-index: 1;
-  border-radius: 10px;
-  padding: 10px 0;
-  bottom: 100%;
-  left: 30%;
-  margin-left: -100px;
-} */
-
-/* // How to Create a Popup Form Using JavaScript. (n.d.). W3docs. Retrieved March 9, 2023, from https://www.w3docs.com/snippets/javascript/how-to-create-a-popup-form-using-javascript.html */
-/* .formPopup {
-  display: none;
-  position: fixed;
-  left: 45%;
-  top: 5%;
-  transform: translate(-50%, 5%);
-  border: 3px solid #999999;
-  z-index: 9;
-} */
 
 .card-footer {
   text-align: center;
@@ -132,6 +99,13 @@ popupClass .popupContent {
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+  border-style: outset;
+}
+
+/* - Hameed, S. (n.d.). How to Change Button Color on Click in CSS. Linux Hint. Retrieved March 11, 2023, from https://linuxhint.com/change-button-color-on-click-css/
+- CSS Borders. (n.d.). W3Schools. Retrieved March 11, 2023, from https://www.w3schools.com/css/css_border.asp */
+.btn:active {
+  border-style: inset;
 }
 
 button[disabled] {
@@ -178,3 +152,37 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+
+/* -----FIRST ATTEMPT----- */
+/* <!-- Asghar, A. (n.d.). How to create popup menu in JavaScript. Linux Hint. Retrieved March 9, 2023, from https://linuxhint.com/create-popup-menu-javascript/ -->
+.popupClass {
+  position: relative;
+  display: inline-block;
+  cursor: context-menu;
+  }
+
+popupClass .popupContent {
+  visibility: hidden;
+  background-color: black;
+  color: red;
+  width: 200px;
+  text-align: center;
+  position: absolute;
+  z-index: 1;
+  border-radius: 10px;
+  padding: 10px 0;
+  bottom: 100%;
+  left: 30%;
+  margin-left: -100px;
+} */
+
+/* // How to Create a Popup Form Using JavaScript. (n.d.). W3docs. Retrieved March 9, 2023, from https://www.w3docs.com/snippets/javascript/how-to-create-a-popup-form-using-javascript.html */
+/* .formPopup {
+  display: none;
+  position: fixed;
+  left: 45%;
+  top: 5%;
+  transform: translate(-50%, 5%);
+  border: 3px solid #999999;
+  z-index: 9;
+} */
