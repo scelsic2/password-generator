@@ -12,6 +12,9 @@ N/A
 
 ## Usage
 
+Click the Generate Password button to begin.
+![Screen shot of the password generator](./assets/images/screenshot1.png)
+
 <!-- Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
@@ -39,9 +42,15 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - HTML DOM Document getElementsByClassName() Method. (n.d.). W3Schools. Retrieved March 9, 2023, from https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp
 - WebD2: Using Javascript to Hide and Show Content. (n.d.). University of Washington. Retrieved March 9, 2023, from https://www.washington.edu/accesscomputing/webd2/student/unit5/module2/lesson5.html
 - HTML DOM Style display Property. (n.d.). W3Schools. Retrieved March 9, 2023, from https://www.w3schools.com/jsref/prop_style_display.asp
-- Study group with Zachary Barnes & James Sciacca 09MAR2023.
+- Study group 09MAR2023.
 - Random Password Generator in JavaScript. (2020, June 19). YouTube. Retrieved March 09, 2023, from https://www.youtube.com/watch?v=v2jfGo7ztm8
 - JavaScript parseInt() Method. (n.d.). W3Schools. Retrieved March 9, 2023, from https://www.w3schools.com/jsref/jsref_parseint.asp
+- Tutoring 10MAR2023
+- JavaScript Number isInteger() Method. (n.d.). W3Schools. Retrieved March 11, 2023, from https://www.w3schools.com/jsref/jsref_isinteger.asp
+- isNaN() - JavaScript | MDN. (n.d.). MDN Web Docs. Retrieved March 11, 2023, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN 
+- CSS box-shadow property. (n.d.). W3Schools. Retrieved March 11, 2023, from https://www.w3schools.com/cssref/css3_pr_box-shadow.php
+- Hameed, S. (n.d.). How to Change Button Color on Click in CSS. Linux Hint. Retrieved March 11, 2023, from https://linuxhint.com/change-button-color-on-click-css/
+- CSS Borders. (n.d.). W3Schools. Retrieved March 11, 2023, from https://www.w3schools.com/css/css_border.asp
 
 ## License
 
