@@ -2,9 +2,9 @@
 
 ## Description
 
-This password generator allowes a user to input the criteria they want for a secure, randomly-generated password.  The user can select password length and if they want to use lowercase letters, uppercase letters, numbers, and/or special characters.
+This password generator allows a user to input the criteria they want for a secure, randomly-generated password.  The user can select password length and if they want to use lowercase letters, uppercase letters, numbers, and/or special characters.
 
-<!-- What did you learn? -->
+By building this application, I learned how to nest functions and how to use user input to impact the output of the page.
 
 ## Installation
 
@@ -14,14 +14,6 @@ N/A
 
 Click the Generate Password button to begin.
 ![Screen shot of the password generator](./assets/images/screenshot1.png)
-
-<!-- Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ``` -->
 
 ## Credits
 
